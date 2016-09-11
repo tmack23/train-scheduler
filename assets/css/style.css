@@ -1,0 +1,19 @@
+#header{
+	text-align: center;
+	font-family: fantasy;
+	font-weight: bold;
+}
+.jumbotron{
+	background-color: #666699;
+}
+
+hr, .trainSpecs{
+	font-weight: bolder;
+	font-family: monospace;
+	
+}
+.trainSpecs{
+	display: inline-block;
+	
+}
+
